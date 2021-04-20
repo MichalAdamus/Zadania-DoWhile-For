@@ -10,7 +10,7 @@ public class AverageGrade {
 //        System.out.println(sum);
 
         // ==== Drugi przykład ====
-        
+
         int[] numbers1 = {3,4,4,4,4,3,3,5};
         double sum = 0;
         for (int j = 0; j < numbers1.length; j++) {
@@ -20,4 +20,3 @@ public class AverageGrade {
         System.out.println(sum);
     }
 }
-
